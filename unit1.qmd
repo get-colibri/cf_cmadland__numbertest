@@ -4,6 +4,8 @@ title: "Unit 1"
 
 Unit 1, Topic 1 - should be 1.1 
 
+&#8203;
+
 ### Unit 1, Topic 1, Subtopic 1 - should be 1.1.1
 
 this is some text **and some bold** 
